@@ -1,0 +1,6 @@
+print ("No absen:9")
+print ("Nama:Dewi Fortuna Baliba")
+print ("Kelas:XI RPL 1")
+print ("Sekolah:SMK PGRI 35 Solokanjeruk")
+print ("Mata pelajaran: PTGM")
+print ("Alamat:kp paneuresan")
